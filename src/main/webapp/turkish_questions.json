@@ -1,0 +1,32 @@
+{
+  "questions": [
+     {
+      "question": "Do you like meat?"
+    },
+    {
+      "question": "Do you like bean?"
+    },
+    {
+      "question": "Do you like vegetable?"
+    },
+    {
+      "question": "Do you like potato?"
+    },
+    {
+      "question": "Do you like pita?"
+    },
+    {
+      "question": "Do you want to eat dessert?"
+    },
+    {
+      "question": "Do you like rice?"
+    },
+     {
+      "question": "Do you like onion?"
+    },
+    {
+      "question": "Do you like hot food?"
+    }
+
+  ]
+}

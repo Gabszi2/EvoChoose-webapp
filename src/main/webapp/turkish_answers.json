@@ -1,0 +1,90 @@
+{
+  "answers": [
+    {
+      "answer": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        true,
+        true
+      ],
+      "name": "döner"
+    },
+    {
+      "answer": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        true,
+        true,
+        false
+      ],
+      "name": "dolma"
+    },
+    {
+      "answer": [
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true
+      ],
+      "name": "köfte"
+    },
+    {
+      "answer": [
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false
+      ],
+      "name": "baklava"
+    },
+    {
+      "answer": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "name": "gyros"
+    },
+    {
+      "answer": [
+        true,
+        false,
+        true,
+        true,
+        true,
+        false,
+        false,
+        true,
+        true
+      ],
+      "name": "kebab"
+    }
+  ]
+}
+
+

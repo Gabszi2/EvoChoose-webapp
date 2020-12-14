@@ -1,0 +1,32 @@
+{
+  "questions": [
+     {
+      "question": "Do you like soup?"
+    },
+    {
+      "question": "Do you like rice?"
+    },
+    {
+      "question": "Do you like fish?"
+    },
+    {
+      "question": "Do you like spicy food?"
+    },
+    {
+      "question": "Do you want to eat a lot?"
+    },
+    {
+      "question": "Do you eat bamboo?"
+    },
+    {
+      "question": "Do you eat bean/beasprout?"
+    },
+     {
+      "question": "Do you eat mushroom?"
+    },
+     {
+      "question": "Do you like hot food?"
+    }
+
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "answers": [
+    {
+      "answer": [
+        true,
+        true,
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "name": "Curry"
+    },
+    {
+      "answer": [
+        true,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false
+      ],
+      "name": "Ramen"
+    },
+    {
+      "answer": [
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "name": "Sushi"
+    },
+    {
+      "answer": [
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false
+      ],
+      "name": "Yakisoba"
+    },
+    {
+      "answer": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false
+      ],
+      "name": "sesame chicken"
+    },
+    {
+      "answer": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "name": "Gyoza"
+    },
+    {
+      "answer": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "name": "Shrimp bites"
+    },
+    {
+      "answer": [
+        true,
+        false,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        false
+      ],
+      "name": "PHO"
+    },
+    {
+      "answer": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "name": "Spring/summer rolls"
+    },
+    {
+      "answer": [
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        false,
+        true,
+        false
+      ],
+      "name": "pork/chicken with mushroom and bamboo"
+    },
+    {
+      "answer": [
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        true,
+        false
+      ],
+      "name": "seafood soup"
+    },
+    {
+      "answer": [
+        false,
+        false,
+        false,
+        true,
+        true,
+        false,
+        false,
+        true,
+        true
+      ],
+      "name": "Sechuan chicken"
+    }
+  ]
+}
